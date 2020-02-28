@@ -1,0 +1,1 @@
+{"deprecations": [{"msg": "The 'azure_rm_publicipaddress_facts' module has been renamed to 'azure_rm_publicipaddress_info'", "version": "2.13"}], "publicipaddresses": [], "changed": false, "ansible_facts": {"azure_publicipaddresses": []}, "failed": false}
